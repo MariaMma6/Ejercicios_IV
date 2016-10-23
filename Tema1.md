@@ -8,22 +8,22 @@ amortización a cuatro y siete años.
 **AMORTIZACIÓN A 4 AÑOS**
 *Sabiendo que se aplica un 25% del precio total*
 
-Primer año : 2.809,90€ x 0.25 = 702,47€
-Segundo año: 2.809,90€ x 0.25 = 702,47€
-Tercer año : 2.809,90€ x 0.25 = 702,47€
-Cuarto año : 2.809,90€ x 0.25 = 702,47€
+- Primer año : 2.809,90€ x 0.25 = 702,47€
+- Segundo año: 2.809,90€ x 0.25 = 702,47€
+- Tercer año : 2.809,90€ x 0.25 = 702,47€
+- Cuarto año : 2.809,90€ x 0.25 = 702,47€
 
 
 **AMORTIZACIÓN A LOS 7 AÑOS**
 *Sabiendo que se amortiza más los primeros años y dicha amortización va reduciéndose con el paso de los años.*
 
-Primer año : 2.809,90€ x 0.25 = 702,47€
-Segundo año: 2.809,90€ x 0.25 = 702,47€
-Tercer año : 2.809,90€ * 0.15 = 421,48€ 
-Cuarto año : 2.809,90€ * 0.15 = 421,48€ 
-Quinto año : 2.809,90€ * 0.10 = 280,99€ 
-Sexto  año : 2.809,90€ * 0.05 = 140,49€
-Séptimo año: 2.809,90€ * 0.05 = 140,49€
+- Primer año : 2.809,90€ x 0.25 = 702,47€
+- Segundo año: 2.809,90€ x 0.25 = 702,47€
+- Tercer año : 2.809,90€ * 0.15 = 421,48€ 
+- Cuarto año : 2.809,90€ * 0.15 = 421,48€ 
+- Quinto año : 2.809,90€ * 0.10 = 280,99€ 
+- Sexto  año : 2.809,90€ * 0.05 = 140,49€
+- Séptimo año: 2.809,90€ * 0.05 = 140,49€
 
 
 **EJERCICIO 2**: Usando las tablas de precios de servicios de alojamiento en Internet y de proveedores de servicios en la nube, Comparar el coste durante un año de un ordenador con un procesador estándar (escogerlo de forma que sea el mismo tipo de procesador en los dos vendedores) y con el resto de las características similares (tamaño de disco duro equivalente a transferencia de disco duro) en el caso de que la infraestructura comprada se usa sólo el 1% o el 10% del tiempo.
@@ -43,11 +43,13 @@ Para el servicio en la nube he elegido Microsoft Azure Estándar A3.
 Con un uso de 1%:
 
 -Servidor dedicado   :  99,90  €/mes * 12 meses  = 1198,8 euros/año. 
+
 -Servicio en la nube : (225,87 €/mes * 12 meses) * 0.01 = 27,10 euros/mes.
 
 Con un uso de 10%:
 
 -Servidor dedicado   :  99,90  €/mes * 12 meses  = 1198,8 euros/año. 
+
 -Servicio en la nube : (225,87 €/mes * 12 meses) * 0.10 = 271,04 euros/mes.
 
 
